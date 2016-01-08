@@ -41,7 +41,7 @@ namespace Uppgift1
                 Label1.Text = "Skriv endast siffror !!!!";
             }
 
-            Console.WriteLine();
+            
 
         }
     }
